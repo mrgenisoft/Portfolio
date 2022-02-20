@@ -2,4 +2,5 @@
 - mbal_report_v20200922.xlsm - Инструмент для консолидации расчетов добычи в ПО MBAL через интерфейс OpenServer (Petroleum Experts)
 - OpenServer.ipynb - Пример взаимодействия с ПО MBAL черз интерфейс OpenServer на языке Python
 - Rate_Decline.ipynb - Пример анализа месячного тренда падения дебита жидкости/нефти/газа
+- Average_Pressure.ipynb - Пример осреднения пластового давления по данным статических замеров
 - poroperm.ipynb - Пример кластерного анализа по данным керна 
