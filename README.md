@@ -1,2 +1,5 @@
-# Portfolio
-
+- Excel2Oracle.bas - Макрос VBA для загрузки суточных данных по скважинам в ИС МГД (Шахматка)
+- mbal_report_v20200922.xlsm - Инструмент для консолидации расчетов добычи в ПО MBAL через интерфейс OpenServer (Petroleum Experts)
+- OpenServer.ipynb - Пример взаимодействия с ПО MBAL черз интерфейс OpenServer на языке Python
+- Rate_Decline.ipynb - Пример анализа месячного тренда падения дебита жидкости/нефти/газа
+- poroperm.ipynb - Пример кластерного анализа по данным керна 
